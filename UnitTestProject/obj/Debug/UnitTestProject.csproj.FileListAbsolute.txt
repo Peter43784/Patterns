@@ -1,0 +1,14 @@
+C:\Users\Вождай\documents\visual studio 2013\Projects\Test\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Вождай\documents\visual studio 2013\Projects\Test\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Вождай\documents\visual studio 2013\Projects\Test\UnitTestProject\bin\Debug\Test.exe
+C:\Users\Вождай\documents\visual studio 2013\Projects\Test\UnitTestProject\bin\Debug\Test.pdb
+C:\Users\Вождай\documents\visual studio 2013\Projects\Test\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Вождай\documents\visual studio 2013\Projects\Test\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Вождай\documents\visual studio 2013\Projects\Test\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\UnitTestProject\bin\Debug\Test.exe
+C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\UnitTestProject\bin\Debug\Test.pdb
+C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\UnitTestProject\obj\Debug\UnitTestProject.pdb

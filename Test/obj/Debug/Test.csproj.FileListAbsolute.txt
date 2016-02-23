@@ -1,0 +1,5 @@
+c:\users\вождай\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.exe.config
+c:\users\вождай\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\вождай\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\вождай\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\вождай\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.pdb

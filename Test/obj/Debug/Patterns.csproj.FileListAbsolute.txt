@@ -1,0 +1,11 @@
+C:\Users\Вождай\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Вождай\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.exe
+C:\Users\Вождай\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\Вождай\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.exe
+C:\Users\Вождай\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.pdb
+C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\Test\bin\Debug\Test.exe.config
+C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\Test\obj\Debug\Test.exe
+C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\Test\obj\Debug\Test.pdb
+C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\Test\bin\Debug\Test.exe
+C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\Test\bin\Debug\Test.pdb
+C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\Test\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
