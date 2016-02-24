@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Patterns
+namespace Patterns.Creational
 {
     //Dealing with weapon
     public abstract class Weapon

@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Patterns;
+using Patterns.Creational;
 
 namespace UnitTestProject
 {

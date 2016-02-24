@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Patterns.Structural;
+using Patterns.Creational;
+using Patterns.Behavioural;
 
 namespace Patterns
 {
@@ -10,9 +9,22 @@ namespace Patterns
     {
         static void Main(string[] args)
         {
+            //Car car = new Car(new ElectricCar());
+            //car.Move();
+
+            //car.Vehicle = new PetrolCar();
+            //car.Move();
 
 
-            //Console.ReadKey();
+            Pizza p = new ItalianPizza();
+            Console.WriteLine(p.GetCost());
+
+            p = new CheesePizza(p);
+            Console.WriteLine(p.GetCost());
+
+            p = new TomatoPizza(p);
+            Console.WriteLine(p.GetCost());
+            Console.ReadKey();
         }
     }
 }

@@ -12,3 +12,11 @@ C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\UnitTe
 C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
 C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\UnitTestProject\obj\Debug\UnitTestProject.dll
 C:\Users\Вождай\Documents\visual studio 2013\Projects\Test\Patterns\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\Pete\Project\Patterns\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\Pete\Project\Patterns\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\Pete\Project\Patterns\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Pete\Project\Patterns\UnitTestProject\bin\Debug\Test.exe
+D:\Pete\Project\Patterns\UnitTestProject\bin\Debug\Test.pdb
+D:\Pete\Project\Patterns\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\Pete\Project\Patterns\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\Pete\Project\Patterns\UnitTestProject\obj\Debug\UnitTestProject.pdb
