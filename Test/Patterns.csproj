@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SOLID\1SingleResponsibilityPrinciple\SRPBadSolution.cs" />
+    <Compile Include="SOLID\1SingleResponsibilityPrinciple\SRPGoodSolution.cs" />
     <Compile Include="Structural\Decorator.cs" />
     <Compile Include="Creational\AbstractFactory.cs" />
     <Compile Include="Creational\FactoryMethod.cs" />
@@ -52,6 +54,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

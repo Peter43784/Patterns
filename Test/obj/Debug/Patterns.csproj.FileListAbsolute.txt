@@ -15,3 +15,9 @@ D:\Pete\Project\Patterns\Test\obj\Debug\Test.pdb
 D:\Pete\Project\Patterns\Test\bin\Debug\Test.exe
 D:\Pete\Project\Patterns\Test\bin\Debug\Test.pdb
 D:\Pete\Project\Patterns\Test\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+D:\Projects\Patterns\Test\bin\Debug\Test.exe.config
+D:\Projects\Patterns\Test\obj\Debug\Test.exe
+D:\Projects\Patterns\Test\obj\Debug\Test.pdb
+D:\Projects\Patterns\Test\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+D:\Projects\Patterns\Test\bin\Debug\Test.exe
+D:\Projects\Patterns\Test\bin\Debug\Test.pdb
