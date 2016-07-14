@@ -8,16 +8,26 @@ namespace Patterns
 {
     class Program
     {
+		static void Do() {
+			try {
+				throw new ArgumentException();
+			} catch( OverflowException e ) {
+				
+			} finally {
+				Console.WriteLine( "In finally" );
+			}
+		}
         static void Main(string[] args)
         {
+			try {
 
-			ProductB p1 = new ProductB {Price = 100};
-	        Console.WriteLine( p1.IsValid( new ValidatorA() ) );
-			p1.Price = 10;
-	        Console.WriteLine( p1.IsValid( new ValidatorB() ) );
-			p1.Price = 0;
-			Console.WriteLine( p1.IsValid( new ValidatorA() ) );
+				Do();
 
+			} catch { } finally {
+				Console.WriteLine( "f" );
+			}
+			
+		
 
 
 
